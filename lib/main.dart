@@ -12,10 +12,10 @@ import 'package:cisneros0453/tabs/tab-pedido.dart';
 import 'package:cisneros0453/tabs/tab-empleado.dart';
 import 'package:cisneros0453/tabs/tab-inventario.dart';
 
-void main() => runApp(const MyApp());
+void main() => runApp(const MiApp());
 
-class MyApp extends StatelessWidget {
-  const MyApp({Key? key});
+class MiApp extends StatelessWidget {
+  const MiApp({Key? key});
 
   @override
   Widget build(BuildContext context) {
